@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvsrpande" alt="kvsrpande" /></a> </p>
 
-- 🔭 I’m currently working on **Risk management**
-
-- 🌱 I’m currently learning **R and SQL languages**
-
-- 👯 I’m looking to collaborate on **Risk analysis or economic analyst**
-
-- 🤝 I’m looking for help with **Credit risk analyst**
 
 - 💬 Ask me about **Economics, Python for data analytics, R, SAS**
 
